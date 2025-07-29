@@ -102,5 +102,5 @@ Mobile responsive improvements
 Inspired by Etsy. Developed as a major academic project.
 
 📧 Contact
-Created by: Rohit Kumar
-📩 Email: rohitkumar.pr45@gmail.com
+Created by: Chetan Kumar
+📩 Email: chetanmalviya230@gmail.com
